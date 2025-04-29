@@ -778,5 +778,6 @@ SPELLS.instant.WARRIOR.shield_slam = 		"Shield Slam"
 SPELLS.instant.WARRIOR.shoot_gun =          "Shoot Gun"
 SPELLS.instant.WARRIOR.shoot_bow =          "Shoot Bow"
 SPELLS.instant.WARRIOR.shoot_crossbow =     "Shoot Crossbow"
+SPELLS.instant.WARRIOR.taunt =              "Taunt"
 SPELLS.instant.WARRIOR.throw =              "Throw"
 

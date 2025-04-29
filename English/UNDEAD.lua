@@ -320,7 +320,7 @@ RPWORDLIST.resurrect.UNDEAD = {"I'm alive...! Kinda...",
 "I must find a meaning in this undeath.",
 "Please, grant me peace.",
 "When pain is not beside you, it takes a lot to end you.",
-"No rest for the wicked, it seems."
+"No rest for the wicked, it seems.",
 "From the moment I understood the weakness of my flesh, it disgusted me.",}
 RPWORDLIST.resurrect.UNDEAD.emote = {} 
 RPWORDLIST.resurrect.UNDEAD.customemote = {}

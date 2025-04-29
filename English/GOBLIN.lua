@@ -159,7 +159,7 @@ RPWORDLIST.talktonpc_beginning.GOBLIN = {"TARGET, 'sup?",
 -------------------------------------------------------------------------
 RPWORDLIST.talktonpc_middle.GOBLIN = {"Do you have anything that goes boom?",
 "Gnomes... they think they're gonna win the tech race. Ha!",
-"Gnomes... treachery little... I'll give you a technology war...".
+"Gnomes... treachery little... I'll give you a technology war...",
 "'Ridge wars' my arse... Ha!",
 "Why does everyone keep assuming I can pilot a zep? Goblins can't pilot crap! Not even the pilots themselves...",
 }
