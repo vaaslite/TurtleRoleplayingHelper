@@ -32,7 +32,7 @@ RPWORDLIST.entercombat.TROLL.customemote = {}
 RPWORDLIST.entercombat.TROLL.random ={
 	["phrase"] = "You BLANK BLANK BLANK",
 	
-	[1] = gonna","'bout ta","haffi"}
+	[1] = {"gonna","'bout ta","haffi"},
 	
 	[2] = {"give I yer powah","leave The flesh","die",},
 	

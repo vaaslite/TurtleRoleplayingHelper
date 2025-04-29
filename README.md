@@ -23,6 +23,7 @@ If you notice any mistakes, wrong spelling, code flaws or you come up with new f
 
 **More actions are planned to be added**, such as PvP contesting, racial actives and other API events.
 ## UI
+To access the main menu, use the (`/rp`) command. 
 The main menu grants access to Events, Spells, Quote List and Language.
 - Events: Player performed events (log off, hearthstone, combat status).
 - Spells: Class specific spells. You can modify the proc chance and delay of every event and spell action. It is recommended to assign higher delay and lower proc chance to the most common events so they don't become spam (entering combat, casting your main rotation spells...)
