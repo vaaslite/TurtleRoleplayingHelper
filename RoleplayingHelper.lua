@@ -1694,13 +1694,13 @@ CastSpell = RPHelper_newCastSpell
 
 
 RPHelper_oldCastSpellByName = CastSpellByName;
-function RPHelper_newCastSpellByName(spellName)
+function RPHelper_newCastSpellByName(spellName, onSelf)
 
 --	dcf( "CastSpellByName" )
 
 
    -- Call the original function
-   RPHelper_oldCastSpellByName(spellName)
+   RPHelper_oldCastSpellByName(spellName, onSelf)
 
    -- This will give us the full spellname, including Rank.
    -- This can be filtered out quite easily
